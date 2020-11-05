@@ -1,0 +1,20 @@
+﻿@model DemoCoreApp.Models.calc
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <div>
+        <form action="/" method="POST">
+            <p><label>Operand 1</label>
+            <input type="number" asp-for="operand1" ></p>
+            <p><label>Operand 1</label>
+            <input type="number" asp-for="operand2" ></p>
+            <input type="submit" value="add" asp-for="strOperator" >
+            <input type="submit" value="sub" asp-for="strOperator" >
+            <p><label>Result</label>
+            <input type="number" value="@Model.result" ></p>
+         </form>
+    </div>
+</div>
