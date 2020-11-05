@@ -5736,11 +5736,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ASG\\Desktop\\Sum\\DevOps\\Demo\\DemoCoreApp.Tests\\DemoCoreApp.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\ASG\\Desktop\\Sum\\DevOps\\Demo\\DemoCore\\DemoCoreApp.Tests\\DemoCoreApp.Tests.csproj",
       "projectName": "DemoCoreApp.Tests",
-      "projectPath": "C:\\Users\\ASG\\Desktop\\Sum\\DevOps\\Demo\\DemoCoreApp.Tests\\DemoCoreApp.Tests.csproj",
+      "projectPath": "C:\\Users\\ASG\\Desktop\\Sum\\DevOps\\Demo\\DemoCore\\DemoCoreApp.Tests\\DemoCoreApp.Tests.csproj",
       "packagesPath": "C:\\Users\\ASG\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ASG\\Desktop\\Sum\\DevOps\\Demo\\DemoCoreApp.Tests\\obj\\",
+      "outputPath": "C:\\Users\\ASG\\Desktop\\Sum\\DevOps\\Demo\\DemoCore\\DemoCoreApp.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASG\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -5754,8 +5754,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\ASG\\Desktop\\Sum\\DevOps\\Demo\\DemoCoreApp\\DemoCoreApp.csproj": {
-              "projectPath": "C:\\Users\\ASG\\Desktop\\Sum\\DevOps\\Demo\\DemoCoreApp\\DemoCoreApp.csproj"
+            "C:\\Users\\ASG\\Desktop\\Sum\\DevOps\\Demo\\DemoCore\\DemoCoreApp\\DemoCoreApp.csproj": {
+              "projectPath": "C:\\Users\\ASG\\Desktop\\Sum\\DevOps\\Demo\\DemoCore\\DemoCoreApp\\DemoCoreApp.csproj"
             }
           }
         }

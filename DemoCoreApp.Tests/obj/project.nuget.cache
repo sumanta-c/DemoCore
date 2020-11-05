@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "54xZ+9IJO46LdWfQKtjaYqH3F7HYWW0woxI+e27b78/kIFy+rux8qxEEngyAHvNm7yRGYxnRZbIaGLzOIchEpQ==",
+  "dgSpecHash": "P449KdCGrsudy+wVGrj3zlpYkpvjzxucC8cA+LJtZM8fXDW9qSdbopOxq6bR2fFv4jRHsM2ya1QJUd4s/+fXow==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ASG\\Desktop\\Sum\\DevOps\\Demo\\DemoCoreApp.Tests\\DemoCoreApp.Tests.csproj",
+  "projectFilePath": "C:\\Users\\ASG\\Desktop\\Sum\\DevOps\\Demo\\DemoCore\\DemoCoreApp.Tests\\DemoCoreApp.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASG\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\ASG\\.nuget\\packages\\microsoft.codecoverage\\16.9.0-preview-20201020-06\\microsoft.codecoverage.16.9.0-preview-20201020-06.nupkg.sha512",

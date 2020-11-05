@@ -26,5 +26,17 @@ namespace DemoCoreApp.Tests
             Assert.Equal(res,objcalc.result);
         }
 
+        [Theory]
+        [InlineData(1,1,2)]
+        [InlineData(10,10,20)]
+        [InlineData(13,14,27)]
+        [InlineData(-1,-1,-2)]
+        public void Subtract_TestPass(double op1, double op2, double res)
+        {
+            calc objcalc = new calc();  
+            objcalc.Subtract(op1,op2);
+            Assert.Equal(res,objcalc.result);
+        }
+
     }
 }
