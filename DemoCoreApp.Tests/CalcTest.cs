@@ -27,10 +27,10 @@ namespace DemoCoreApp.Tests
         }
 
         [Theory]
-        [InlineData(1,1,2)]
-        [InlineData(10,10,20)]
-        [InlineData(13,14,27)]
-        [InlineData(-1,-1,-2)]
+        [InlineData(4,2,2)]
+        [InlineData(30,10,20)]
+        [InlineData(43,24,19)]
+        [InlineData(-1,-7,6)]
         public void Subtract_TestPass(double op1, double op2, double res)
         {
             calc objcalc = new calc();  
